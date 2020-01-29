@@ -1,0 +1,11 @@
+C:\Users\germa\source\repos\CocoRuleta04\bin\Debug\netcoreapp3.1\CocoRuleta04.exe
+C:\Users\germa\source\repos\CocoRuleta04\bin\Debug\netcoreapp3.1\CocoRuleta04.deps.json
+C:\Users\germa\source\repos\CocoRuleta04\bin\Debug\netcoreapp3.1\CocoRuleta04.runtimeconfig.json
+C:\Users\germa\source\repos\CocoRuleta04\bin\Debug\netcoreapp3.1\CocoRuleta04.runtimeconfig.dev.json
+C:\Users\germa\source\repos\CocoRuleta04\bin\Debug\netcoreapp3.1\CocoRuleta04.dll
+C:\Users\germa\source\repos\CocoRuleta04\bin\Debug\netcoreapp3.1\CocoRuleta04.pdb
+C:\Users\germa\source\repos\CocoRuleta04\obj\Debug\netcoreapp3.1\CocoRuleta04.csprojAssemblyReference.cache
+C:\Users\germa\source\repos\CocoRuleta04\obj\Debug\netcoreapp3.1\CocoRuleta04.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\CocoRuleta04\obj\Debug\netcoreapp3.1\CocoRuleta04.AssemblyInfo.cs
+C:\Users\germa\source\repos\CocoRuleta04\obj\Debug\netcoreapp3.1\CocoRuleta04.dll
+C:\Users\germa\source\repos\CocoRuleta04\obj\Debug\netcoreapp3.1\CocoRuleta04.pdb
